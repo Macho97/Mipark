@@ -13,10 +13,9 @@ Link all'applicazione: https://www.appsheet.com/start/563442f6-2e3d-4d8b-af97-5b
 La presentazione del progetto è allegata alla repository.
 
 Nota: I parcheggi attualmente indicati sull'app, essendo il servizio di analisi immagini non attivo, sono fittizzi e finalizzati alla sola dimostrazione dell'aspetto dell'interfaccia utente.
-.
-.
-.
-.
+
+
+
 ***English***
 
 # Mipark
