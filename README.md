@@ -44,3 +44,5 @@ Note: The parking spots currently showed on the app, since the image-analysis se
 Pipedream personal page for workflows: https://pipedream.com/workflows .
 
 Camlytics personal page for image analysis: https://cloud.camlytics.com/dashboard/1742 .
+
+Google Sheets personal link to parking spots database: https://docs.google.com/spreadsheets/d/19ciUXksXaIyd-z9znZB0a7N3hRZinUo8y0AJtv0ng70/edit#gid=2100903975 .
