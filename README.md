@@ -15,6 +15,8 @@ La presentazione del progetto è allegata alla repository.
 Nota: I parcheggi attualmente indicati sull'app, essendo il servizio di analisi immagini non attivo, sono fittizzi e finalizzati alla sola dimostrazione dell'aspetto dell'interfaccia utente.
 
 
+
+
 ***English***
 
 # Mipark
