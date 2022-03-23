@@ -41,5 +41,5 @@ Note: The parking spots currently showed on the app, since the image-analysis se
 
 ## personal links ##
 
-Pipedream personal page for workflows: https://pipedream.com/workflows
-Camlytics personal page for image analysis: https://cloud.camlytics.com/dashboard/1742
+Pipedream personal page for workflows: https://pipedream.com/workflows .
+Camlytics personal page for image analysis: https://cloud.camlytics.com/dashboard/1742 .
