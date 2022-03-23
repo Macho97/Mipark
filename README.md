@@ -1,7 +1,8 @@
 # Mipark
 Real-time image-based parking occupancy detection 
 
-Progetto che comprende la creazione di un applicazione integrata alle API di Google Maps e collegata ad un database di parcheggi  lungo le strade di Milano il cui stato di occupazione real-time viene monitorato da telecamere collegate ad un servizio di analisi immagini. L'occupazione dei posti auto viene poi archiviata in un database ( un foglio di calcolo ) che in tempo reale comunica con l'app per smartphone, mostrandone la posizione sulla Mappa, unitamente alla loro tipologia (gratuito/residenti/a pagamento). L'utente può quindi selezionare un posto libero dalla mappa o dalla pagina elenco e l'app avvierà la navigazione verso il parcheggio selezionato.
+Progetto che comprende la creazione di un applicazione integrata alle API di Google Maps e collegata ad un database di parcheggi  lungo le strade di Milano il cui stato di occupazione real-time viene monitorato da telecamere collegate ad un servizio di analisi immagini. 
+L'occupazione dei posti auto viene archiviata in un database ( un foglio di calcolo ) che in tempo reale comunica con l'app per smartphone, mostrandone la posizione sulla Mappa, unitamente alla loro tipologia (gratuito/residenti/a pagamento). L'utente può quindi selezionare un posto libero dalla mappa o dalla pagina Elenco e l'app avvierà la navigazione verso il parcheggio selezionato.
 
 Per la realizzazione dell'app è stata utilizzata la piattaforma AppSheet ( https://www.appsheet.com ), mentre per il servizio di analisi immagini ci si è serviti del software Camlytics ( https://camlytics.com ).
 
@@ -19,7 +20,8 @@ Nota: I parcheggi attualmente indicati sull'app, essendo il servizio di analisi 
 Real-time image-based parking occupancy detection 
 
 
-This project includes the creation of an application integrated with Google Maps API and connected to a database of parking spots along the streets of Milan whose real-time occupancy status is monitored by cameras connected to an image analysis service. The parking spots occupancy is then stored in a database ( a spreadsheet ) which in real-time communicates with the smartphone app, showwning their location on the Map, together with their typology ( free/residents only/paid). The user can then select a free spot from the map or from the list page and the app will start the navigation towards the selected parking spot.
+This project includes the creation of an application integrated with Google Maps API and connected to a database of parking spots along the streets of Milan whose real-time occupancy status is monitored by cameras connected to an image analysis service.
+The parking spots occupancy is stored in a database ( a spreadsheet ) which communicates real-time with the smartphone app, showing their location on the Map, together with their typology ( free/residents only/paid). The user can then select a free spot from the map or from the list page and the app will start the navigation towards the selected parking spot.
 
 The AppSheet platform (https://www.appsheet.com) was used to create the app, while the Camlytics software (https://camlytics.com) was used as provider of the image-analysis service.
 
