@@ -12,7 +12,7 @@ Il servizio è stato testato su alcuni parcheggi situati nella zona della Stazio
 Link all'applicazione: https://www.appsheet.com/start/563442f6-2e3d-4d8b-af97-5b47c188313c .
 La presentazione del progetto è allegata alla repository.
 
-Nota: I parcheggi attualmente indicati sull'app, essendo il servizio di analisi immagini non attivo, sono fittizzi e finalizzati alla sola dimostrazione dell'aspetto dell'interfaccia utente.
+Nota: I posti auto attualmente indicati sull'app, essendo il servizio di analisi immagini non attivo, sono fittizzi e finalizzati alla sola dimostrazione dell'aspetto dell'interfaccia utente.
 
 
 
@@ -28,9 +28,9 @@ The parking spots occupancy is stored in a database ( a spreadsheet ) which comm
 
 The AppSheet platform (https://www.appsheet.com) was used to create the app, while the Camlytics software (https://camlytics.com) was used as provider of the image-analysis service.
 
-The service was tested on parking spots located in the Central Station area using a webcam available online. Currently the service is not active for reasons connected to the cost of the service, but an example of its functioning during the test is shown in the attached presentation.
+The service was tested on parking spots located in the Central Station area using a webcam available online. Currently the service is not active for reasons connected to the cost of the service, but an example of its functioning during testing is shown in the attached presentation.
 
 Application link: https://www.appsheet.com/start/563442f6-2e3d-4d8b-af97-5b47c188313c.
 The project presentation is attached to the repository.
 
-Note: The car parks currently indicated on the app, since the image-analysis service is not active, are fictionals and only aimed at demonstrating the appearance of the user interface.
+Note: The parking spots currently showed on the app, since the image-analysis service is not active, are fictionals and only aimed at demonstrating the appearance of the user interface.
